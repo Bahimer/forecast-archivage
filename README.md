@@ -15,6 +15,13 @@ Dans un centre d'archives, la charge de travail ne se lisse pas. Un contrat sign
 consultation en deux semaines. En août, l'activité chute de moitié. Pourtant, les effectifs sont souvent
 fixés une fois par an, d'après l'année écoulée.
 
+Je suis data analyst, spécialisé en BI depuis cinq ans (Power BI, SQL Server, Python). Une partie de ce
+parcours s'est faite chez un tiers-archiveur : j'y ai mené la migration du reporting de SSRS vers Power BI
+et construit un entrepôt de données SQL Server centralisé. Je connais donc ce métier par ses données :
+les flux de boîtes, les clients, les sites. J'ai aussi fait de la modélisation prédictive (régression,
+segmentation K-means) dans un poste précédent. Ce projet y ajoute les séries temporelles, sur un sujet
+dont je comprends les enjeux opérationnels.
+
 L'objectif était de mesurer ce qu'un modèle de prévision simple, et surtout explicable, peut apporter à ce
 pilotage. Pas un modèle de recherche, mais un outil qu'un responsable de site peut lire, comprendre et
 utiliser pour décider d'un renfort ou accepter des congés.
