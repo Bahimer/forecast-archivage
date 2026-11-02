@@ -1,0 +1,16 @@
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter / VS Code
+.ipynb_checkpoints/
+.vscode/
+
+# Données régénérables avec : python generate_dataset.py
+data/*.csv
+
+# Divers
+*.zip
+Thumbs.db
+desktop.ini
